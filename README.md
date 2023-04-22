@@ -1,1 +1,1 @@
-# -ourse_project_basics_of_programming
+# Course_project_basics_of_programming
